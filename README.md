@@ -1,13 +1,6 @@
 - 👋 Hi, I’m @lucafabbian
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-Work in progress!
-
-
-<!---
-lucafabbian/lucafabbian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🎓 Master student in Computer Engineering, [University of Padova](https://unipd.it) 
+- 💞️ Software architect, typescript/python/cpp/rust/go developer, webapp/pwa enthusiast
+- 📖 Main maintainer of [magebook](https://magebook.github.io) + foss projects about interactive fiction and editors
+- 🌱 Into literature, hugs, TV series, environmentalism, nerdy stuffs
+- 📫 write me at <luca.fabbian.1999@gmail.com> or check [lucafabbian.github.io](https://lucafabbian.github.io). Feel free to write me! 
