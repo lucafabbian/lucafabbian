@@ -6,4 +6,4 @@
 - 🌱 Into literature, hugs, TV series, environmentalism, nerdy stuffs
 - 📫 message me at <luca.fabbian.1999@gmail.com> or check [lucafabbian.github.io](https://lucafabbian.github.io)
 
-Feel free to write me! 
+Feel free to text me! 
